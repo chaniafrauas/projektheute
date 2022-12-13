@@ -11,7 +11,7 @@ public class Mitarbeiter {
 	private int telefon;
 	
 	public Mitarbeiter (String parameter1, String parameter2, int parameter3, int parameter4) {
-		nameMitarbeiter = parameter1;
+		MitarbeiterName = parameter1;
 		anrede = parameter2;
 		position = parameter3;
 		telefon = parameter4;
